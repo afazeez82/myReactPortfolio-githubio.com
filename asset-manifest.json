@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/myReactPortfolio-githubio.com/static/css/main.f9400e96.chunk.css",
+    "main.js": "/myReactPortfolio-githubio.com/static/js/main.088009bf.chunk.js",
+    "main.js.map": "/myReactPortfolio-githubio.com/static/js/main.088009bf.chunk.js.map",
+    "runtime-main.js": "/myReactPortfolio-githubio.com/static/js/runtime-main.23a16164.js",
+    "runtime-main.js.map": "/myReactPortfolio-githubio.com/static/js/runtime-main.23a16164.js.map",
+    "static/js/2.313d782e.chunk.js": "/myReactPortfolio-githubio.com/static/js/2.313d782e.chunk.js",
+    "static/js/2.313d782e.chunk.js.map": "/myReactPortfolio-githubio.com/static/js/2.313d782e.chunk.js.map",
+    "index.html": "/myReactPortfolio-githubio.com/index.html",
+    "precache-manifest.9ffc4e05a03e48bbee8c3db032a21d4d.js": "/myReactPortfolio-githubio.com/precache-manifest.9ffc4e05a03e48bbee8c3db032a21d4d.js",
+    "service-worker.js": "/myReactPortfolio-githubio.com/service-worker.js",
+    "static/css/main.f9400e96.chunk.css.map": "/myReactPortfolio-githubio.com/static/css/main.f9400e96.chunk.css.map",
+    "static/js/2.313d782e.chunk.js.LICENSE": "/myReactPortfolio-githubio.com/static/js/2.313d782e.chunk.js.LICENSE",
+    "static/media/HouseOptimizer_screenshot.png": "/myReactPortfolio-githubio.com/static/media/HouseOptimizer_screenshot.62a3b4c5.png",
+    "static/media/Quiz.jpg": "/myReactPortfolio-githubio.com/static/media/Quiz.19cd1876.jpg",
+    "static/media/WorkdayPlanner.jpg": "/myReactPortfolio-githubio.com/static/media/WorkdayPlanner.39762379.jpg",
+    "static/media/corefactors.jpg": "/myReactPortfolio-githubio.com/static/media/corefactors.820199c7.jpg",
+    "static/media/myphoto_c copy.jpg": "/myReactPortfolio-githubio.com/static/media/myphoto_c copy.ca120b9c.jpg",
+    "static/media/optum_image.jpg": "/myReactPortfolio-githubio.com/static/media/optum_image.5deefe8e.jpg",
+    "static/media/optumimage.jpeg": "/myReactPortfolio-githubio.com/static/media/optumimage.f708e147.jpeg",
+    "static/media/optumimagethree.jpg": "/myReactPortfolio-githubio.com/static/media/optumimagethree.6d2cfc69.jpg",
+    "static/media/primetherapeutics.jpg": "/myReactPortfolio-githubio.com/static/media/primetherapeutics.bc5ecdfe.jpg",
+    "static/media/readmegenerator.png": "/myReactPortfolio-githubio.com/static/media/readmegenerator.dfbf6b36.png",
+    "static/media/weatherdashboard.jpg": "/myReactPortfolio-githubio.com/static/media/weatherdashboard.5312c56e.jpg",
+    "static/media/worldwide.jpg": "/myReactPortfolio-githubio.com/static/media/worldwide.8d093f7b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23a16164.js",
+    "static/js/2.313d782e.chunk.js",
+    "static/css/main.f9400e96.chunk.css",
+    "static/js/main.088009bf.chunk.js"
+  ]
+}
